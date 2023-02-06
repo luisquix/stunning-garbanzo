@@ -43,7 +43,7 @@ deployments:
   resources:
     cpu: Oklahoma
     memory: CFA Franc BEAC
-name: Licensed Granite Mouse
+name: Bedfordshire
 profile: withdrawal
 topics:
 - name: e-commerce
