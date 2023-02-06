@@ -35,7 +35,7 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Optimized
-name: Maryland
+name: Roads
 profile: matrix
 topics:
 - name: e-commerce
