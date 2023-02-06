@@ -28,7 +28,7 @@ deployments:
     cpu: Fort
     memory: Indiana
 name: Fantastic Concrete Towels
-profile: olive
+profile: Nevada
 topics:
 - name: e-commerce
   partitions: 694164600
