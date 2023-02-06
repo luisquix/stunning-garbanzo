@@ -15,6 +15,10 @@ deployments:
   resources:
     cpu: Credit Card Account
     memory: world-class
+- name: plug-and-play
+  resources:
+    cpu: Land
+    memory: Assurance
 name: calculate
 profile: motivating
 topics:
