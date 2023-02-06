@@ -64,3 +64,5 @@ topics:
   partitions: -2063559085
 - name: Maine
   partitions: -1333197918
+- name: Buckinghamshire
+  partitions: 976288346
