@@ -11,7 +11,7 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Security
-name: interfaces
+name: intermediate
 profile: mesh
 topics:
 - name: e-commerce
