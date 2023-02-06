@@ -55,6 +55,10 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
+- name: indexing
+  resources:
+    cpu: invoice
+    memory: Maine
 name: Object-based
 profile: Gibraltar Pound
 topics:
