@@ -7,7 +7,7 @@ deployments:
   resources:
     cpu: Avon
     memory: Specialist
-- name: Arizona
+- name: bleeding-edge
   resources:
     cpu: Home Loan Account
     memory: Security
@@ -55,10 +55,14 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
+- name: indexing
+  resources:
+    cpu: invoice
+    memory: Maine
 name: Object-based
 profile: Gibraltar Pound
 topics:
-- name: e-commerce
+- name: Wooden
   partitions: 532375989
 - name: Automotive, Electronics & Sports
   partitions: -1256623111
