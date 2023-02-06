@@ -19,6 +19,10 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
+- name: North Dakota
+  resources:
+    cpu: deposit
+    memory: Spur
 name: Practical Steel Shirt
 profile: driver
 topics:
