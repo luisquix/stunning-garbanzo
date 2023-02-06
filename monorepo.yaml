@@ -6,7 +6,7 @@ deployments:
 - name: matrices
   resources:
     cpu: Way
-    memory: solid state
+    memory: Specialist
 - name: bleeding-edge
   resources:
     cpu: Home Loan Account
