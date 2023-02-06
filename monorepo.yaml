@@ -3,7 +3,7 @@ deployments:
   resources:
     cpu: Curve
     memory: grey
-- name: EXE
+- name: Phased
   resources:
     cpu: Avon
     memory: Specialist
