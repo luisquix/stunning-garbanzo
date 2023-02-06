@@ -39,7 +39,7 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: Dynamic
+name: Tasty Plastic Keyboard
 profile: synergies
 topics:
 - name: e-commerce
