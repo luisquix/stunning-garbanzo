@@ -48,13 +48,13 @@ deployments:
     cpu: functionalities
     memory: Lilangeni
 name: withdrawal
-profile: Gibraltar Pound
+profile: program
 topics:
 - name: e-commerce
   partitions: 694164600
 - name: Automotive, Electronics & Sports
   partitions: -1256623111
-- name: Security
+- name: leading edge
   partitions: 508753820
 - name: Papua New Guinea
   partitions: -987389862
