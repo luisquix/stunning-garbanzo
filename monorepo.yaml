@@ -24,7 +24,7 @@ deployments:
     cpu: deposit
     memory: Spur
 name: violet
-profile: Electronics & Games
+profile: Minnesota
 topics:
 - name: e-commerce
   partitions: 694164600
