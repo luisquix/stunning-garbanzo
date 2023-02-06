@@ -37,7 +37,7 @@ topics:
 - name: leading edge
   partitions: 508753820
 - name: Papua New Guinea
-  partitions: 643843928
+  partitions: -987389862
 - name: B2C
   partitions: 1679854753
 - name: Secured
