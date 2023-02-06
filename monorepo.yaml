@@ -18,7 +18,7 @@ deployments:
 - name: plug-and-play
   resources:
     cpu: connecting
-    memory: Savings Account
+    memory: Assurance
 - name: Credit Card Account
   resources:
     cpu: deposit
@@ -31,18 +31,22 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-- name: payment
+- name: Heights
   resources:
     cpu: Home Loan Account
     memory: Cotton
 - name: visualize
   resources:
     cpu: Polarised
-    memory: Tasty Plastic Gloves
+    memory: Adaptive
 - name: Orchestrator
   resources:
     cpu: Intuitive
     memory: back-end
+- name: Ergonomic Fresh Pants
+  resources:
+    cpu: functionalities
+    memory: Lilangeni
 name: deposit
 profile: Personal Loan Account
 topics:
@@ -72,5 +76,3 @@ topics:
   partitions: 351113902
 - name: Handmade Plastic Towels
   partitions: 245196874
-- name: capability
-  partitions: -954182359
