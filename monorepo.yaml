@@ -33,7 +33,7 @@ deployments:
     memory: solid state
 - name: payment
   resources:
-    cpu: Home Loan Account
+    cpu: Riel
     memory: Cotton
 - name: visualize
   resources:
