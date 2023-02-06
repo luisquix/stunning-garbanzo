@@ -86,3 +86,5 @@ topics:
   partitions: 245196874
 - name: Auto Loan Account
   partitions: 949082993
+- name: reboot
+  partitions: -580128970
