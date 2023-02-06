@@ -20,7 +20,7 @@ deployments:
     cpu: Land
     memory: Assurance
 name: Infrastructure
-profile: open-source
+profile: Berkshire
 topics:
 - name: e-commerce
   partitions: 694164600
