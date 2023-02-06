@@ -35,7 +35,7 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Optimized
-name: Fantastic Fresh Tuna
+name: Auto Loan Account
 profile: matrix
 topics:
 - name: e-commerce
