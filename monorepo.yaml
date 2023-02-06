@@ -44,7 +44,7 @@ profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
-- name: navigate
+- name: Automotive, Electronics & Sports
   partitions: -1256623111
 - name: leading edge
   partitions: 508753820
