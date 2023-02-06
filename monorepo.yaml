@@ -17,7 +17,7 @@ deployments:
     memory: world-class
 - name: plug-and-play
   resources:
-    cpu: Land
+    cpu: connecting
     memory: Assurance
 - name: Credit Card Account
   resources:
