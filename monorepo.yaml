@@ -39,7 +39,7 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: Auto Loan Account
+name: Dynamic
 profile: synergies
 topics:
 - name: e-commerce
