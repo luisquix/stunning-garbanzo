@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: Unbranded
+name: Borders
 profile: Quetzal
 topics:
 - name: e-commerce
