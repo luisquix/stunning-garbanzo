@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: migration
+name: Unbranded
 profile: Quetzal
 topics:
 - name: e-commerce
