@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: Hawaii
+name: migration
 profile: Quetzal
 topics:
 - name: e-commerce
