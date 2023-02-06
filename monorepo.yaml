@@ -19,7 +19,7 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
-name: cultivate
+name: Steel
 profile: open-source
 topics:
 - name: e-commerce
