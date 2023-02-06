@@ -96,3 +96,5 @@ topics:
   partitions: -440134234
 - name: Supervisor
   partitions: -965745108
+- name: syndicate
+  partitions: 1079884534
