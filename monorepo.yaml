@@ -32,5 +32,5 @@ topics:
   partitions: 643843928
 - name: maximized
   partitions: 566888382
-- name: redundant
+- name: Secured
   partitions: 1170304272
