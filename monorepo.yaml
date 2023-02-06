@@ -32,7 +32,7 @@ deployments:
     cpu: Intuitive
     memory: solid state
 name: Crossroad
-profile: Nevada
+profile: Technician
 topics:
 - name: e-commerce
   partitions: 694164600
@@ -54,5 +54,3 @@ topics:
   partitions: -1471883999
 - name: bypass
   partitions: -2063559085
-- name: Armenia
-  partitions: -1608437406
