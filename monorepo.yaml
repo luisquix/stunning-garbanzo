@@ -84,3 +84,5 @@ topics:
   partitions: 351113902
 - name: Handmade Plastic Towels
   partitions: 245196874
+- name: Auto Loan Account
+  partitions: 949082993
