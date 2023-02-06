@@ -48,13 +48,13 @@ deployments:
     cpu: functionalities
     memory: Lilangeni
 name: withdrawal
-profile: North Korean Won
+profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
 - name: Automotive, Electronics & Sports
   partitions: -1256623111
-- name: leading edge
+- name: Security
   partitions: 508753820
 - name: Papua New Guinea
   partitions: -987389862
