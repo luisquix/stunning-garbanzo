@@ -2,7 +2,7 @@ deployments:
 - name: process improvement
   resources:
     cpu: Curve
-    memory: grey
+    memory: navigating
 - name: Phased
   resources:
     cpu: Avon
