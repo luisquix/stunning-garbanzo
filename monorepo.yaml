@@ -55,7 +55,7 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
-name: optimal
+name: Object-based
 profile: Gibraltar Pound
 topics:
 - name: e-commerce
