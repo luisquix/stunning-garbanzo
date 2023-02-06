@@ -5,7 +5,7 @@ deployments:
     memory: navigating
 - name: Phased
   resources:
-    cpu: Multi-layered
+    cpu: Avon
     memory: Specialist
 - name: bleeding-edge
   resources:
@@ -31,7 +31,11 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-name: Bedfordshire
+- name: payment
+  resources:
+    cpu: Home Loan Account
+    memory: Optimized
+name: Maryland
 profile: exuding
 topics:
 - name: e-commerce
@@ -49,7 +53,7 @@ topics:
 - name: firewall
   partitions: 1293681777
 - name: National
-  partitions: -1142013155
+  partitions: -217842083
 - name: Sleek Soft Shirt
   partitions: -1471883999
 - name: bypass
