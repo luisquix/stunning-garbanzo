@@ -7,7 +7,7 @@ deployments:
   resources:
     cpu: Way
     memory: solid state
-- name: envisioneer
+- name: bleeding-edge
   resources:
     cpu: Home Loan Account
     memory: Security
