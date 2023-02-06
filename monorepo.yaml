@@ -1,5 +1,5 @@
 deployments:
-- name: Investment Account
+- name: process improvement
   resources:
     cpu: Curve
     memory: grey
