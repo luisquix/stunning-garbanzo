@@ -30,7 +30,7 @@ topics:
   partitions: 694164600
 - name: navigate
   partitions: 824937605
-- name: Lead
+- name: leading edge
   partitions: 508753820
 - name: Papua New Guinea
   partitions: 643843928
