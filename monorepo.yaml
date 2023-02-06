@@ -39,8 +39,12 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
+- name: Orchestrator
+  resources:
+    cpu: Intuitive
+    memory: back-end
 name: deposit
-profile: white
+profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
@@ -66,3 +70,5 @@ topics:
   partitions: -1333197918
 - name: Agent
   partitions: 351113902
+- name: Handmade Plastic Towels
+  partitions: 245196874
