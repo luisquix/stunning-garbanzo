@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: facilitate
+name: Hawaii
 profile: Quetzal
 topics:
 - name: e-commerce
