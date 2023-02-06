@@ -23,7 +23,7 @@ deployments:
   resources:
     cpu: deposit
     memory: Spur
-name: Practical Steel Shirt
+name: violet
 profile: Electronics & Games
 topics:
 - name: e-commerce
