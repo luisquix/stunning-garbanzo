@@ -43,7 +43,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: back-end
-name: deposit
+name: systemic
 profile: Personal Loan Account
 topics:
 - name: e-commerce
