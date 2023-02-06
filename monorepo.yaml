@@ -6,7 +6,7 @@ deployments:
 - name: matrices
   resources:
     cpu: Way
-    memory: Glens
+    memory: solid state
 - name: envisioneer
   resources:
     cpu: Home Loan Account
