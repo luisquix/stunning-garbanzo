@@ -56,7 +56,7 @@ deployments:
     cpu: Palestinian Territory
     memory: card
 name: Object-based
-profile: Refined Rubber Fish
+profile: Sleek Soft Gloves
 topics:
 - name: e-commerce
   partitions: 532375989
