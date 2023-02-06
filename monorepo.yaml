@@ -47,7 +47,7 @@ deployments:
   resources:
     cpu: functionalities
     memory: Lilangeni
-name: deposit
+name: withdrawal
 profile: Personal Loan Account
 topics:
 - name: e-commerce
@@ -58,7 +58,7 @@ topics:
   partitions: 508753820
 - name: Papua New Guinea
   partitions: -987389862
-- name: Buckinghamshire
+- name: B2C
   partitions: 1679854753
 - name: Secured
   partitions: 1170304272
