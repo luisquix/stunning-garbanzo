@@ -23,7 +23,7 @@ deployments:
   resources:
     cpu: deposit
     memory: Ergonomic Granite Bacon
-- name: experiences
+- name: port
   resources:
     cpu: Fort
     memory: Indiana
