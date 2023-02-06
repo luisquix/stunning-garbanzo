@@ -19,7 +19,7 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
-name: indexing
+name: cultivate
 profile: open-source
 topics:
 - name: e-commerce
