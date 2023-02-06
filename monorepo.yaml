@@ -39,7 +39,7 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: Producer
+name: Dynamic
 profile: synergies
 topics:
 - name: e-commerce
@@ -64,5 +64,5 @@ topics:
   partitions: -2063559085
 - name: Maine
   partitions: -1333197918
-- name: Buckinghamshire
-  partitions: 976288346
+- name: Agent
+  partitions: 351113902
