@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: dynamic
+name: facilitate
 profile: SMS
 topics:
 - name: e-commerce
