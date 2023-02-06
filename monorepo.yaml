@@ -59,6 +59,10 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
+- name: implement
+  resources:
+    cpu: Plastic
+    memory: View
 name: grey
 profile: Quetzal
 topics:
