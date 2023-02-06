@@ -2,7 +2,7 @@ deployments:
 - name: Investment Account
   resources:
     cpu: Curve
-    memory: zero defect
+    memory: grey
 - name: matrices
   resources:
     cpu: Way
