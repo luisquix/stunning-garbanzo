@@ -47,6 +47,10 @@ deployments:
   resources:
     cpu: functionalities
     memory: Lilangeni
+- name: Gabon
+  resources:
+    cpu: Run
+    memory: solid state
 name: withdrawal
 profile: Gibraltar Pound
 topics:
