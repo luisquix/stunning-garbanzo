@@ -31,7 +31,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-name: Bedfordshire
+name: next-generation
 profile: exuding
 topics:
 - name: e-commerce
