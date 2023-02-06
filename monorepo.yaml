@@ -5,7 +5,7 @@ deployments:
     memory: grey
 - name: matrices
   resources:
-    cpu: Way
+    cpu: Avon
     memory: Specialist
 - name: bleeding-edge
   resources:
