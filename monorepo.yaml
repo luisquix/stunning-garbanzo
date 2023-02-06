@@ -15,7 +15,7 @@ deployments:
   resources:
     cpu: Credit Card Account
     memory: world-class
-name: intermediate
+name: calculate
 profile: motivating
 topics:
 - name: e-commerce
