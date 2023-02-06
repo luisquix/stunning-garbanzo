@@ -32,7 +32,7 @@ deployments:
     cpu: Intuitive
     memory: solid state
 name: Crossroad
-profile: exuding
+profile: integrated
 topics:
 - name: e-commerce
   partitions: 694164600
