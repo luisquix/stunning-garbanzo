@@ -35,7 +35,7 @@ topics:
 - name: Papua New Guinea
   partitions: 643843928
 - name: maximized
-  partitions: 566888382
+  partitions: 1679854753
 - name: Secured
   partitions: 1170304272
 - name: firewall
