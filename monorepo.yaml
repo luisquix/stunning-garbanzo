@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: Borders
+name: grey
 profile: Quetzal
 topics:
 - name: e-commerce
