@@ -1,0 +1,24 @@
+deployments:
+- name: Investment Account
+  resources:
+    cpu: Curve
+    memory: zero defect
+- name: matrices
+  resources:
+    cpu: Way
+    memory: Glens
+- name: Directives
+  resources:
+    cpu: Home Loan Account
+    memory: Security
+name: Licensed Wooden Shirt
+profile: National
+topics:
+- name: e-commerce
+  partitions: 694164600
+- name: navigate
+  partitions: 1711800583
+- name: Lead
+  partitions: 508753820
+- name: Papua New Guinea
+  partitions: -271634791
