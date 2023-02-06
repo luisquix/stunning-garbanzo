@@ -51,6 +51,10 @@ deployments:
   resources:
     cpu: Run
     memory: solid state
+- name: backing up
+  resources:
+    cpu: Palestinian Territory
+    memory: card
 name: withdrawal
 profile: Gibraltar Pound
 topics:
