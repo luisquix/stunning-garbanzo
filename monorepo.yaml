@@ -27,7 +27,7 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
-name: reboot
+name: Borders
 profile: Nevada
 topics:
 - name: e-commerce
