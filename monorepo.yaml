@@ -55,6 +55,10 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
+- name: Home Loan Account
+  resources:
+    cpu: protocol
+    memory: withdrawal
 name: Object-based
 profile: Sleek Soft Gloves
 topics:
