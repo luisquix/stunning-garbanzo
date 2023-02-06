@@ -22,7 +22,7 @@ deployments:
 - name: Credit Card Account
   resources:
     cpu: deposit
-    memory: Spur
+    memory: Ergonomic Granite Bacon
 - name: experiences
   resources:
     cpu: Fort
