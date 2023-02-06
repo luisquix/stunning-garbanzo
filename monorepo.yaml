@@ -19,7 +19,7 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
-name: Infrastructure
+name: Practical Steel Shirt
 profile: Berkshire
 topics:
 - name: e-commerce
