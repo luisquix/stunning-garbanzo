@@ -31,7 +31,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-- name: payment
+- name: Heights
   resources:
     cpu: Home Loan Account
     memory: Cotton
@@ -43,7 +43,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: back-end
-name: systemic
+name: deposit
 profile: Personal Loan Account
 topics:
 - name: e-commerce
