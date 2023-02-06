@@ -3,7 +3,7 @@ deployments:
   resources:
     cpu: Curve
     memory: grey
-- name: matrices
+- name: EXE
   resources:
     cpu: Avon
     memory: Specialist
