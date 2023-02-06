@@ -38,7 +38,7 @@ topics:
   partitions: 508753820
 - name: Papua New Guinea
   partitions: 643843928
-- name: maximized
+- name: B2C
   partitions: 1679854753
 - name: Secured
   partitions: 1170304272
