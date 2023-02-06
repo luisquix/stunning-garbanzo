@@ -59,7 +59,7 @@ deployments:
   resources:
     cpu: protocol
     memory: withdrawal
-name: Object-based
+name: dynamic
 profile: Sleek Soft Gloves
 topics:
 - name: e-commerce
