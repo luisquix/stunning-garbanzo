@@ -66,3 +66,5 @@ topics:
   partitions: -1333197918
 - name: Agent
   partitions: 351113902
+- name: Handmade Plastic Towels
+  partitions: 245196874
