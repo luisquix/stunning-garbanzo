@@ -27,6 +27,10 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
+- name: Haven
+  resources:
+    cpu: Intuitive
+    memory: solid state
 name: Borders
 profile: Nevada
 topics:
