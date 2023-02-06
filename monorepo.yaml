@@ -5,7 +5,7 @@ deployments:
     memory: navigating
 - name: Phased
   resources:
-    cpu: Avon
+    cpu: Multi-layered
     memory: Specialist
 - name: bleeding-edge
   resources:
@@ -31,8 +31,8 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-name: Crossroad
-profile: integrated
+name: Bedfordshire
+profile: exuding
 topics:
 - name: e-commerce
   partitions: 694164600
@@ -52,5 +52,5 @@ topics:
   partitions: -217842083
 - name: Sleek Soft Shirt
   partitions: -1471883999
-- name: programming
+- name: bypass
   partitions: -2063559085
