@@ -11,6 +11,10 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Security
+- name: Port
+  resources:
+    cpu: Credit Card Account
+    memory: world-class
 name: intermediate
 profile: purple
 topics:
