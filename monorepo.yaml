@@ -19,7 +19,7 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
-name: calculate
+name: indexing
 profile: motivating
 topics:
 - name: e-commerce
