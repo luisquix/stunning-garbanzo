@@ -55,7 +55,7 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
-name: withdrawal
+name: optimal
 profile: Gibraltar Pound
 topics:
 - name: e-commerce
