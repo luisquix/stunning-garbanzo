@@ -27,7 +27,7 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
-- name: Haven
+- name: Rapids
   resources:
     cpu: Intuitive
     memory: solid state
