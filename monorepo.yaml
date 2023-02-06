@@ -69,7 +69,7 @@ topics:
 - name: B2C
   partitions: 1679854753
 - name: Secured
-  partitions: 1170304272
+  partitions: -1952113653
 - name: firewall
   partitions: 1293681777
 - name: National
