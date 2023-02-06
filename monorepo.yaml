@@ -39,7 +39,7 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: cross-platform
+name: frame
 profile: Personal Loan Account
 topics:
 - name: e-commerce
