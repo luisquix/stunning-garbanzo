@@ -55,7 +55,7 @@ name: withdrawal
 profile: Gibraltar Pound
 topics:
 - name: e-commerce
-  partitions: 694164600
+  partitions: 532375989
 - name: Automotive, Electronics & Sports
   partitions: -1256623111
 - name: Security
