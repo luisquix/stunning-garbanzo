@@ -23,7 +23,7 @@ deployments:
   resources:
     cpu: deposit
     memory: Spur
-name: Soft
+name: Fantastic Concrete Towels
 profile: archive
 topics:
 - name: e-commerce
