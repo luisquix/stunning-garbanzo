@@ -39,12 +39,8 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-- name: lime
-  resources:
-    cpu: Oklahoma
-    memory: CFA Franc BEAC
-name: Bedfordshire
-profile: withdrawal
+name: cross-platform
+profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
