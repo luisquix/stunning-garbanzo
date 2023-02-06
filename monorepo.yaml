@@ -20,7 +20,7 @@ deployments:
     cpu: Land
     memory: Assurance
 name: indexing
-profile: motivating
+profile: open-source
 topics:
 - name: e-commerce
   partitions: 694164600
