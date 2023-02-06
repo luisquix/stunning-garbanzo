@@ -38,7 +38,7 @@ deployments:
 - name: visualize
   resources:
     cpu: Polarised
-    memory: Tasty Plastic Gloves
+    memory: Adaptive
 - name: Orchestrator
   resources:
     cpu: Intuitive
