@@ -58,7 +58,7 @@ topics:
   partitions: 508753820
 - name: Papua New Guinea
   partitions: -987389862
-- name: B2C
+- name: Buckinghamshire
   partitions: 1679854753
 - name: Secured
   partitions: 1170304272
