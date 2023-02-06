@@ -56,7 +56,7 @@ deployments:
     cpu: Palestinian Territory
     memory: card
 name: Object-based
-profile: Gibraltar Pound
+profile: CFA Franc BCEAO
 topics:
 - name: e-commerce
   partitions: 532375989
