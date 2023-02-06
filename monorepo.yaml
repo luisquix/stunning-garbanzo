@@ -44,7 +44,7 @@ deployments:
     cpu: Oklahoma
     memory: CFA Franc BEAC
 name: Licensed Granite Mouse
-profile: Japan
+profile: withdrawal
 topics:
 - name: e-commerce
   partitions: 694164600
