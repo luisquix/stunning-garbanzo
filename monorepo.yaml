@@ -39,8 +39,8 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: Global
-profile: Metrics
+name: Licensed Granite Mouse
+profile: Drives
 topics:
 - name: e-commerce
   partitions: 694164600
@@ -58,7 +58,7 @@ topics:
   partitions: 1293681777
 - name: National
   partitions: -217842083
-- name: paradigms
+- name: Sleek Soft Shirt
   partitions: -1471883999
 - name: bypass
   partitions: -2063559085
