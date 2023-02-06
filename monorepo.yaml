@@ -33,14 +33,14 @@ deployments:
     memory: solid state
 - name: payment
   resources:
-    cpu: Riel
+    cpu: Home Loan Account
     memory: Cotton
 - name: visualize
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
-name: frame
-profile: Small Soft Shoes
+name: deposit
+profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
