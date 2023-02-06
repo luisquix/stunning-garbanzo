@@ -31,7 +31,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-name: Borders
+name: Crossroad
 profile: Nevada
 topics:
 - name: e-commerce
