@@ -19,7 +19,7 @@ deployments:
   resources:
     cpu: Land
     memory: Assurance
-- name: North Dakota
+- name: Credit Card Account
   resources:
     cpu: deposit
     memory: Spur
