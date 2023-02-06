@@ -27,7 +27,7 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
-name: Fantastic Concrete Towels
+name: Tools, Health & Home
 profile: Nevada
 topics:
 - name: e-commerce
