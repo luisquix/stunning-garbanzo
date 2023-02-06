@@ -27,7 +27,7 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
-name: Tools, Health & Home
+name: Comoros
 profile: Nevada
 topics:
 - name: e-commerce
