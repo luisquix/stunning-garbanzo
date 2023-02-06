@@ -36,7 +36,7 @@ deployments:
     cpu: Home Loan Account
     memory: Optimized
 name: Maryland
-profile: exuding
+profile: Books
 topics:
 - name: e-commerce
   partitions: 694164600
