@@ -38,3 +38,5 @@ topics:
   partitions: 566888382
 - name: Secured
   partitions: 1170304272
+- name: firewall
+  partitions: 1293681777
