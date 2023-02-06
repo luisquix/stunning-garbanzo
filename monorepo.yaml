@@ -7,7 +7,7 @@ deployments:
   resources:
     cpu: Avon
     memory: Specialist
-- name: bleeding-edge
+- name: Arizona
   resources:
     cpu: Home Loan Account
     memory: Security
@@ -55,10 +55,6 @@ deployments:
   resources:
     cpu: Palestinian Territory
     memory: card
-- name: indexing
-  resources:
-    cpu: invoice
-    memory: Maine
 name: Object-based
 profile: Gibraltar Pound
 topics:
