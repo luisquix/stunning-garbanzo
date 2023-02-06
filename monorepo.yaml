@@ -60,7 +60,7 @@ deployments:
     cpu: protocol
     memory: withdrawal
 name: dynamic
-profile: Sleek Soft Gloves
+profile: SMS
 topics:
 - name: e-commerce
   partitions: 532375989
