@@ -40,7 +40,7 @@ deployments:
     cpu: Polarised
     memory: Tasty Plastic Gloves
 name: Licensed Granite Mouse
-profile: Drives
+profile: Berkshire
 topics:
 - name: e-commerce
   partitions: 694164600
