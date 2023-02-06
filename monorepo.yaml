@@ -11,7 +11,7 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Security
-name: Licensed Wooden Shirt
+name: interfaces
 profile: National
 topics:
 - name: e-commerce
