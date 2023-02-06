@@ -58,3 +58,5 @@ topics:
   partitions: -1471883999
 - name: bypass
   partitions: -2063559085
+- name: Maine
+  partitions: -1333197918
