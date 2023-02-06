@@ -20,7 +20,7 @@ deployments:
     cpu: Land
     memory: Assurance
 name: Practical Steel Shirt
-profile: Berkshire
+profile: driver
 topics:
 - name: e-commerce
   partitions: 694164600
