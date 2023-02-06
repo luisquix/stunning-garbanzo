@@ -36,7 +36,7 @@ profile: Nevada
 topics:
 - name: e-commerce
   partitions: 694164600
-- name: Configuration
+- name: navigate
   partitions: -621440894
 - name: leading edge
   partitions: 508753820
@@ -54,3 +54,5 @@ topics:
   partitions: -1471883999
 - name: bypass
   partitions: -2063559085
+- name: Armenia
+  partitions: -1608437406
