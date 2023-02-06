@@ -35,6 +35,10 @@ deployments:
   resources:
     cpu: Home Loan Account
     memory: Cotton
+- name: visualize
+  resources:
+    cpu: Polarised
+    memory: Tasty Plastic Gloves
 name: Auto Loan Account
 profile: matrix
 topics:
