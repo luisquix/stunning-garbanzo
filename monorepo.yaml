@@ -18,7 +18,7 @@ deployments:
 - name: plug-and-play
   resources:
     cpu: connecting
-    memory: Assurance
+    memory: Savings Account
 - name: Credit Card Account
   resources:
     cpu: deposit
@@ -31,14 +31,14 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-- name: Heights
+- name: payment
   resources:
     cpu: Home Loan Account
     memory: Cotton
 - name: visualize
   resources:
     cpu: Polarised
-    memory: Adaptive
+    memory: Tasty Plastic Gloves
 - name: Orchestrator
   resources:
     cpu: Intuitive
