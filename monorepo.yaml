@@ -94,3 +94,5 @@ topics:
   partitions: -580128970
 - name: back-end
   partitions: -440134234
+- name: Supervisor
+  partitions: -965745108
