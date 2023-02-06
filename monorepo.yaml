@@ -23,7 +23,7 @@ deployments:
   resources:
     cpu: deposit
     memory: Spur
-name: violet
+name: Soft
 profile: Minnesota
 topics:
 - name: e-commerce
