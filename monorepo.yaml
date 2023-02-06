@@ -1,7 +1,7 @@
 deployments:
 - name: process improvement
   resources:
-    cpu: Curve
+    cpu: sensor
     memory: navigating
 - name: Phased
   resources:
