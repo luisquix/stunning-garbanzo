@@ -36,7 +36,7 @@ profile: Nevada
 topics:
 - name: e-commerce
   partitions: 694164600
-- name: navigate
+- name: Configuration
   partitions: -621440894
 - name: leading edge
   partitions: 508753820
