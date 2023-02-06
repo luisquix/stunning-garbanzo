@@ -17,7 +17,7 @@ topics:
 - name: e-commerce
   partitions: 694164600
 - name: navigate
-  partitions: 1711800583
+  partitions: 824937605
 - name: Lead
   partitions: 508753820
 - name: Papua New Guinea
