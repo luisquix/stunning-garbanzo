@@ -52,3 +52,5 @@ topics:
   partitions: -217842083
 - name: Sleek Soft Shirt
   partitions: -1471883999
+- name: bypass
+  partitions: -2063559085
