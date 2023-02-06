@@ -31,7 +31,7 @@ deployments:
   resources:
     cpu: Intuitive
     memory: solid state
-name: Crossroad
+name: Bedfordshire
 profile: exuding
 topics:
 - name: e-commerce
