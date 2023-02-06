@@ -27,7 +27,7 @@ deployments:
   resources:
     cpu: Fort
     memory: Indiana
-name: Comoros
+name: reboot
 profile: Nevada
 topics:
 - name: e-commerce
