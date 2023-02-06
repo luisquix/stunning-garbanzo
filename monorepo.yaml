@@ -34,7 +34,7 @@ deployments:
 - name: payment
   resources:
     cpu: Home Loan Account
-    memory: Optimized
+    memory: Cotton
 name: Auto Loan Account
 profile: matrix
 topics:
