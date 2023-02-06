@@ -24,7 +24,7 @@ deployments:
     cpu: deposit
     memory: Spur
 name: Soft
-profile: Minnesota
+profile: archive
 topics:
 - name: e-commerce
   partitions: 694164600
