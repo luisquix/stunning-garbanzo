@@ -39,14 +39,18 @@ deployments:
   resources:
     cpu: Polarised
     memory: Tasty Plastic Gloves
+- name: lime
+  resources:
+    cpu: Oklahoma
+    memory: CFA Franc BEAC
 name: Licensed Granite Mouse
-profile: Berkshire
+profile: Personal Loan Account
 topics:
 - name: e-commerce
   partitions: 694164600
-- name: navigate
+- name: Automotive, Electronics & Sports
   partitions: -1256623111
-- name: cyan
+- name: leading edge
   partitions: 508753820
 - name: Papua New Guinea
   partitions: -987389862
