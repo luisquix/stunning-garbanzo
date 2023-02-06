@@ -60,7 +60,7 @@ deployments:
     cpu: protocol
     memory: withdrawal
 name: facilitate
-profile: SMS
+profile: Quetzal
 topics:
 - name: e-commerce
   partitions: 532375989
