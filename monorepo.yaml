@@ -82,7 +82,7 @@ topics:
   partitions: 1293681777
 - name: National
   partitions: -217842083
-- name: Sleek Soft Shirt
+- name: Fresh
   partitions: -1471883999
 - name: bypass
   partitions: -59010638
