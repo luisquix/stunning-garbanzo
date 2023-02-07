@@ -51,7 +51,7 @@ deployments:
   resources:
     cpu: Run
     memory: solid state
-- name: backing up
+- name: IB
   resources:
     cpu: Palestinian Territory
     memory: card
