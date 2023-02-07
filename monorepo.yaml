@@ -64,7 +64,7 @@ deployments:
     cpu: Plastic
     memory: View
 name: grey
-profile: Quetzal
+profile: green
 topics:
 - name: e-commerce
   partitions: 532375989
