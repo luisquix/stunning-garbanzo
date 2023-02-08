@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-test text 1 a058ce1f-7812-4291-8980-913bc7fd78c5
-=======
-test text 1 c1409e62-79a5-404f-987e-fa024092ae0d
->>>>>>> main
