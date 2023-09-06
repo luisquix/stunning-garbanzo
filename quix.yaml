@@ -32,4 +32,11 @@ deployments:
         value: f1-data
 
 # This section describes the Topics of the data pipeline
-topics: []
+topics:
+  - name: f1-data
+    persisted: false
+    configuration:
+      partitions: 2
+      replicationFactor: 2
+      retentionInMinutes: -1
+      retentionInBytes: 1048576000
