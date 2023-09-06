@@ -9,4 +9,4 @@ client = qx.QuixStreamingClient()
 while True:
     print(time.ctime())
     # Prints the current time with a five second difference
-    time.sleep(5)
+    time.sleep(10)
