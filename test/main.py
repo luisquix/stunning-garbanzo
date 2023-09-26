@@ -6,6 +6,9 @@ import time
 # Alternatively, you can always pass an SDK token manually as an argument.
 client = qx.QuixStreamingClient()
 
+
+client.
+
 while True:
     print(time.ctime())
     # Prints the current time with a five second difference
