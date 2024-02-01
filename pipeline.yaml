@@ -1,0 +1,26 @@
+deployments: []
+topics:
+- name: hello-world-source
+  persisted: false
+  configuration:
+    partitions: 2
+    replicationFactor: 2
+    retentionInMinutes: 720
+    retentionInBytes: 52428800
+applications:
+- path: string
+  name: Empty template
+  language: python
+  variables:
+  - name: input
+    inputType: InputTopic
+    description: This is the input topic to read data from
+    defaultValue: ''
+    required: true
+  - name: output
+    inputType: OutputTopic
+    description: This is the output topic to write data to
+    defaultValue: output-topic
+    required: true
+  entryPoint: build/dockerfile
+  runEntryPoint: main.py
