@@ -8,7 +8,7 @@
     "languages": [ "csharp", "typescript" ],
     "category": [ "sample", "demo" ]
   },
-  "ImageFile": "assets/demo-image.png",
+  "ImageFile": "demo-image.png",
   "ReadmeFile": "README.md",
   "Published": true
 }
